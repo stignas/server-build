@@ -9,5 +9,5 @@
 - PHP Composer
 
 # DNS
-- Free dns at .tk
+- .tk domains / freenom.com
 - cloudflare.com
